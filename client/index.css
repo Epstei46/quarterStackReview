@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* above fits margin/padding in border. By default, margins are outside of the border */
+}
+
+h1 {
+    color: red
+}
